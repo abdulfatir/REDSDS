@@ -288,5 +288,5 @@ if __name__ == "__main__":
                 summary.add_scalar(k, v, step)
             summary.flush()
 
-with open(os.path.join(config["log_dir"], "metrics.json"), "w") as fp:
-    json.dump(all_metrics, fp)
+    with open(os.path.join(config["log_dir"], "metrics.json"), "w") as fp:
+        json.dump(all_metrics, fp)
