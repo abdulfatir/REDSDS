@@ -1,8 +1,9 @@
 # Recurrent Explicit Duration Switching Dynamical Systems (RED-SDS)
 
+[![ArXiv](https://img.shields.io/static/v1?label=arXiv&message=2110.13878&color=B31B1B)](https://arxiv.org/abs/2110.13878)
 [![Venue:NeurIPS 2021](https://img.shields.io/badge/Venue-NeurIPS%202021-007CFF)](https://neurips.cc)
 
-This repository contains a reference implementation of RED-SDS, a non-linear state space model proposed in the NeurIPS 2021 paper *Deep Explicit Duration Switching Models for Time Series*. 
+This repository contains a reference implementation of RED-SDS, a non-linear state space model proposed in the NeurIPS 2021 paper [*Deep Explicit Duration Switching Models for Time Series*](https://arxiv.org/abs/2110.13878). 
 
 ## Environment Setup
 
